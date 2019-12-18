@@ -1,0 +1,91 @@
+.boardGrid {
+	width: 425px;
+	margin-top: -410px;
+}
+.boardGrid2 {
+	width: 425px;
+	margin-top: -410px;
+}
+.topRowClass {
+	width: 40.9px;
+	height: 40px;	
+	text-align: center;
+	display: table-cell;
+	background-color: black;
+	color: rgb(21, 255, 0);
+}
+.topRowClass2 {
+  margin-left: auto;
+	width: 40.9px;
+	height: 40px;	
+	text-align: center;
+	display: table-cell;
+	background-color: black;
+	color: rgb(21, 255, 0);
+}
+.leftRowClass {
+  height: 40.9px;
+  width: 40px;
+	display: block;	
+	background-color: black;
+	color:  rgb(21, 255, 0);
+}
+.leftRowClass2 {
+  height: 40.9px;
+  width: 40px;
+	display: block;	
+	background-color: black;
+	color:  rgb(21, 255, 0);
+}
+li {
+  margin-top: -3.2px;
+	width: 40px;
+	height: 40px;
+	background-color: rgba(255, 255, 255, 0);
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+  display: inline-block;
+  
+}
+.placeShipsToBoard {
+	display: inline-block;
+	width: 20%;
+	border: 1px solid black;
+	background-color: white;
+  }
+.placeShipsToBoard2 {
+  display: inline-block;
+  width: 20%;
+  border: 1px solid black;
+  background-color: #F5FBEF;
+  }
+    .destroyer{
+      background-color: blue;
+      border: solid red 1px;
+      height: 40px;
+      width: 82px
+    }
+    .submarine{
+      background-color: blue;
+      border: solid red 1px;
+      margin-top: -1px;
+      height: 40px;
+      width:123px
+    }
+    .crusier{
+      background-color: blue;
+      border: solid red 1px;
+      margin-top: -2px;
+      height: 40px;
+      width: 164px
+    }
+    .battleship{
+      background-color: blue;
+      border: solid red 1px;
+      margin-top: -1px;
+      height: 41px;
+      width: 205px;
+    }
+    .droppedShipPlace {
+      background-color: blue;
+      }
